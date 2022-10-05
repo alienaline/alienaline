@@ -4,7 +4,7 @@ I've been learning to code for 1,5 years, before switching career. I started wit
 
 - 🌍 Based in Saint-Petersburg.
 - 📚 Lifelong learner.
-- 👐 Always open to public issues and pull request.
+- 👐 Always open to public issues and pull requests.
 - 👯 Open to new opportunities.
 - 📫 Contact me by [email](mailto:alinafowork@gmail.com) or [telegram](https://t.me/forjvjhjkt).
 
