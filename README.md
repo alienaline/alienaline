@@ -1,7 +1,5 @@
 ## Hi there 👋, I'am Alina!
 
-I've been learning to code for 1,5 years, before switching career. I started with HTML and found a passion in front-end development.
-
 - 🌍 Based in Saint-Petersburg.
 - 📚 Lifelong learner.
 - 👐 Always open to public issues and pull requests.
