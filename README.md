@@ -1,6 +1,6 @@
 ## Hi there 👋, I'am Alina!
 
-- 🌍 Based in Saint-Petersburg.
+- 🌍 Based in Kaliningrad.
 - 📚 Lifelong learner.
 - 👐 Always open to public issues and pull requests.
 - 👯 Open to new opportunities.
