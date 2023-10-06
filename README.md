@@ -1,8 +1,6 @@
 ## Hi there 👋, I'am Alina!
 
-- 🌍 Based in Kaliningrad.
 - 📚 Lifelong learner.
-- 👐 Always open to public issues and pull requests.
 - 👯 Open to new opportunities.
 - 📫 Contact me by [email](mailto:alinafowork@gmail.com) or [telegram](https://t.me/forjvjhjkt).
 
